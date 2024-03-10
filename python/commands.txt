@@ -1,0 +1,5 @@
+Dostępne komendy:
+
+elo
+help
+clear
